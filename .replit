@@ -33,4 +33,4 @@ task = "packager.installForAll"
 
 [[workflows.workflow.tasks]]
 task = "shell.exec"
-args = "ls"
+args = "./ops/scripts/compile_template.sh"

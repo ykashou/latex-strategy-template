@@ -5,10 +5,12 @@ echo "Compiling Simple LaTeX Strategy Template..."
 
 # Compile the document (run twice for proper cross-references)
 echo "First compilation pass..."
-pdflatex -interaction=nonstopmode strategy_template_simple.tex
+pdflatex \
+    -interaction=nonstopmode strategy_template.tex
 
 echo "Second compilation pass..."
-pdflatex -interaction=nonstopmode strategy_template_simple.tex
+pdflatex \
+    -interaction=nonstopmode strategy_template.tex
 
 # Clean up auxiliary files
 echo "Cleaning up auxiliary files..."
