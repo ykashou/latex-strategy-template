@@ -1,5 +1,12 @@
 # Professional LaTeX Strategy Template
 
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
+![Template](https://img.shields.io/badge/Type-Template-blue?style=for-the-badge)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+![Audiomage](https://img.shields.io/badge/Customized_for-Audiomage-0b5394?style=for-the-badge)
+
 A comprehensive, professional LaTeX template for creating business strategy documents. This template provides a polished, corporate-style layout with modern design elements perfect for executive presentations and strategic planning documents.
 
 ## Features
