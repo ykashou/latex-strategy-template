@@ -34,3 +34,6 @@ task = "packager.installForAll"
 [[workflows.workflow.tasks]]
 task = "shell.exec"
 args = "./ops/scripts/compile_template.sh"
+
+[agent]
+expertMode = true
